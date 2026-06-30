@@ -1,0 +1,14 @@
+
+# Logs de la aplicación
+usb_log.txt
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de entorno
+.env*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
